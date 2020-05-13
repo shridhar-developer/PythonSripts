@@ -3,7 +3,7 @@ import requests
 
 jenkins_job_name = "test"              
 Jenkins_url = "http://localhost:8080"
-jenkins_user = "nijil"
+jenkins_user = "shri"
 jenkins_pwd = "123456"
 buildWithParameters = True
 jenkins_params = {'token': 'e0EzNMlS53', 
