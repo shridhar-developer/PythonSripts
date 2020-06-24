@@ -23,7 +23,7 @@ try:
 		if str(data.status_code) == "201":
 		 	print ("Jenkins job is triggered")
 		else:
-		 	print ("Failed to trigger the Jenkins job")
+		 	print ("Failed to trigger the Jenkins job ")
 
 	else:
 		print("Couldn't fetch Jenkins-Crumb")
